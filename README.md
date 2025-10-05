@@ -1,4 +1,3 @@
-# Amazon-Customer-Segmentation-with-Machine-Learning-and-NLP
-
-Analyzed customer purchase behaviors using NLP-based product categorization, K-means clustering, and utilized Welch’s t-test, One-Way ANOVA to identify demographic influences on spending patterns.
-Delivered actionable insights like gender-specific recommendations, age-based promotions, and cluster-specific strategies, driving personalized campaigns and enhancing marketing effectiveness through a data-driven dashboard.
+# **E-commerce Intelligence: Harnessing ML & NLP for Consumer Segmentation and Product Recommendations** 
+> - Analyzed Amazon order histories to segment customers from high to low value using K-means clustering. Applied statistical techniques to uncover demographic influences on spending patterns, providing insights into targeted marketing strategies.
+> - Implemented NLP techniques to categorize products based on their descriptions. Employed TF-IDF vectorizer and Word2Vec embedder with various classifiers. Achieved the highest validation accuracy with the integration of TF-IDF vectorization and a Linear SVM, enabling precise product classification critical for recommending the most relevant products to customers.
